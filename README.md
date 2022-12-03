@@ -1,3 +1,4 @@
 # Kodluyoruz ilk repo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
-![Image](img\repo.PNG)
+![Image](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/markdown.png)
+
