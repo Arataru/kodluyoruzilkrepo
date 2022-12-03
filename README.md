@@ -1,3 +1,3 @@
 # Kodluyoruz ilk repo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
-![Image](kodluyoruzilkrepo\img\repo.PNG)
+![Image](img\repo.PNG)
