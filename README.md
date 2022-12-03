@@ -10,8 +10,10 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
 ### Linux için:
 '''
+
 cd kodluyoruzilkrepo
 code .
+
 '''
 ## Contributing
 
